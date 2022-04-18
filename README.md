@@ -20,7 +20,7 @@ Project is created with:
 * C++ 17
 
 ## Installation
-To use download the main.cpp file and open with your IDE or Integrated Development Enviornment such as Visual Studio.
+To use download the main.cpp file and open with your IDE or Integrated Development Enviornment such as Visual Studio, then run using your favorite compiler.
 
 ## Usage
 This program was created for a class project and is therefore not reliable for accuracy. :)
